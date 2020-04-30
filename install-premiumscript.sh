@@ -20,7 +20,7 @@ cat > /root/limit.sh <<END3
 END3
 
 cd /usr/local/bin
-wget -O premiummenu.zip "https://raw.githubusercontent.com/acillsadank/Preium/master/premiummenu.zip"
+wget -O premiummenu.zip "https://raw.githubusercontent.com/acillsadank/preium/master/premiummenu.zip"
 unzip premiummenu.zip
 rm -f premiummenu.zip
 
